@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TrigonometryJunit (1)" project="Trigonometry" tests="12" started="12" failures="0" errors="0" ignored="0">
+  <testsuite name="trigonometry.TrigonometryJunit" time="0.074" displayname="TrigonometryJunit" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]">
+    <testcase name="testRadianToDegree" classname="trigonometry.TrigonometryJunit" time="0.034" displayname="testRadianToDegree()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testRadianToDegree()]"/>
+    <testcase name="testCos" classname="trigonometry.TrigonometryJunit" time="0.002" displayname="testCos()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testCos()]"/>
+    <testcase name="testSin" classname="trigonometry.TrigonometryJunit" time="0.003" displayname="testSin()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testSin()]"/>
+    <testcase name="testTan" classname="trigonometry.TrigonometryJunit" time="0.002" displayname="testTan()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testTan()]"/>
+    <testcase name="testTanNegative" classname="trigonometry.TrigonometryJunit" time="0.001" displayname="testTanNegative()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testTanNegative()]"/>
+    <testcase name="testSinNormalization" classname="trigonometry.TrigonometryJunit" time="0.001" displayname="testSinNormalization()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testSinNormalization()]"/>
+    <testcase name="testSinNegative" classname="trigonometry.TrigonometryJunit" time="0.002" displayname="testSinNegative()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testSinNegative()]"/>
+    <testcase name="testDegreeToRadian" classname="trigonometry.TrigonometryJunit" time="0.001" displayname="testDegreeToRadian()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testDegreeToRadian()]"/>
+    <testcase name="testTanException" classname="trigonometry.TrigonometryJunit" time="0.006" displayname="testTanException()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testTanException()]"/>
+    <testcase name="testTanNormalization" classname="trigonometry.TrigonometryJunit" time="0.002" displayname="testTanNormalization()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testTanNormalization()]"/>
+    <testcase name="testCosNegative" classname="trigonometry.TrigonometryJunit" time="0.003" displayname="testCosNegative()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testCosNegative()]"/>
+    <testcase name="testCosNormalization" classname="trigonometry.TrigonometryJunit" time="0.016" displayname="testCosNormalization()" uniqueid="[engine:junit-jupiter]/[class:trigonometry.TrigonometryJunit]/[method:testCosNormalization()]"/>
+  </testsuite>
+</testrun>
